@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/layout/message.xml"
+    }
+]

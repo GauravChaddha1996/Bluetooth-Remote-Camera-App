@@ -1,0 +1,2612 @@
+[
+    {
+        "outputFile": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 60,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 61,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 61,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 63,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 58,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 58,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 56,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 56,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 53,
+                    "endOffset": 2837
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 53,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2842,
+                    "endColumn": 42,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 42,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 69,
+                    "endOffset": 2950
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 69,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2955,
+                    "endColumn": 42,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endColumn": 43,
+                    "endOffset": 3037
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 43,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3042,
+                    "endColumn": 44,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 44,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 42,
+                    "endOffset": 3125
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3130,
+                    "endColumn": 41,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 41,
+                        "endOffset": 54
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3172,
+                    "endColumn": 67,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 67,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 64,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endColumn": 101,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 101,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endColumn": 56,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 56,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endColumn": 82,
+                    "endOffset": 3542
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1391,
+                        "endColumn": 82,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3547,
+                    "endColumn": 58,
+                    "endOffset": 3601
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 58,
+                        "endOffset": 1275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3606,
+                    "endColumn": 72,
+                    "endOffset": 3674
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 72,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3679,
+                    "endColumn": 55,
+                    "endOffset": 3730
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 55,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3735,
+                    "endColumn": 67,
+                    "endOffset": 3798
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 67,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3803,
+                    "endColumn": 75,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 75,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 83,
+                    "endOffset": 3958
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 83,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3963,
+                    "endColumn": 52,
+                    "endOffset": 4011
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 52,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4016,
+                    "endColumn": 52,
+                    "endOffset": 4064
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 52,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4069,
+                    "endColumn": 58,
+                    "endOffset": 4123
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 58,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4128,
+                    "endColumn": 68,
+                    "endOffset": 4192
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1079,
+                        "endColumn": 68,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4197,
+                    "endColumn": 66,
+                    "endOffset": 4259
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 66,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4264,
+                    "endColumn": 37,
+                    "endOffset": 4297
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 37,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4302,
+                    "endColumn": 97,
+                    "endOffset": 4395
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 101,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4400,
+                    "endColumn": 56,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 56,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endColumn": 61,
+                    "endOffset": 4514
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 61,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4519,
+                    "endColumn": 71,
+                    "endOffset": 4586
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 71,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4591,
+                    "endColumn": 63,
+                    "endOffset": 4650
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 63,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4655,
+                    "endColumn": 50,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 50,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 5167
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5172,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 5293
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5298,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 5421
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5426,
+                    "endColumn": 59,
+                    "endOffset": 5481
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endColumn": 59,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5486,
+                    "endColumn": 52,
+                    "endOffset": 5534
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5539,
+                    "endColumn": 26,
+                    "endOffset": 5561
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 26,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5566,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5757
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5762,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 6035
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 740
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 60,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 61,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 61,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 63,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 58,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 58,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 56,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 56,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 53,
+                    "endOffset": 2837
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 53,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2842,
+                    "endColumn": 42,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 42,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 69,
+                    "endOffset": 2950
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 69,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2955,
+                    "endColumn": 42,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endColumn": 43,
+                    "endOffset": 3037
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 43,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3042,
+                    "endColumn": 44,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 44,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 42,
+                    "endOffset": 3125
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3130,
+                    "endColumn": 41,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 41,
+                        "endOffset": 54
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3172,
+                    "endColumn": 67,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 67,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 64,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endColumn": 101,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 101,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endColumn": 56,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 56,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endColumn": 82,
+                    "endOffset": 3542
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1391,
+                        "endColumn": 82,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3547,
+                    "endColumn": 58,
+                    "endOffset": 3601
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 58,
+                        "endOffset": 1275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3606,
+                    "endColumn": 72,
+                    "endOffset": 3674
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 72,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3679,
+                    "endColumn": 55,
+                    "endOffset": 3730
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 55,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3735,
+                    "endColumn": 67,
+                    "endOffset": 3798
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 67,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3803,
+                    "endColumn": 75,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 75,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 83,
+                    "endOffset": 3958
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 83,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3963,
+                    "endColumn": 52,
+                    "endOffset": 4011
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 52,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4016,
+                    "endColumn": 52,
+                    "endOffset": 4064
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 52,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4069,
+                    "endColumn": 58,
+                    "endOffset": 4123
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 58,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4128,
+                    "endColumn": 68,
+                    "endOffset": 4192
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1079,
+                        "endColumn": 68,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4197,
+                    "endColumn": 66,
+                    "endOffset": 4259
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 66,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4264,
+                    "endColumn": 37,
+                    "endOffset": 4297
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 37,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4302,
+                    "endColumn": 97,
+                    "endOffset": 4395
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 101,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4400,
+                    "endColumn": 56,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 56,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endColumn": 61,
+                    "endOffset": 4514
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 61,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4519,
+                    "endColumn": 71,
+                    "endOffset": 4586
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 71,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4591,
+                    "endColumn": 63,
+                    "endOffset": 4650
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 63,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4655,
+                    "endColumn": 50,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 50,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 5167
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5172,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 5293
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5298,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 5421
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5426,
+                    "endColumn": 59,
+                    "endOffset": 5481
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endColumn": 59,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5486,
+                    "endColumn": 52,
+                    "endOffset": 5534
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5539,
+                    "endColumn": 26,
+                    "endOffset": 5561
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 26,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5566,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5757
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5762,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 6035
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 740
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 60,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 61,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 61,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 63,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 58,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 58,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 56,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 56,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 53,
+                    "endOffset": 2837
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 53,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2842,
+                    "endColumn": 42,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 42,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 69,
+                    "endOffset": 2950
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 69,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2955,
+                    "endColumn": 42,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endColumn": 43,
+                    "endOffset": 3037
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 43,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3042,
+                    "endColumn": 44,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 44,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 42,
+                    "endOffset": 3125
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3130,
+                    "endColumn": 41,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 41,
+                        "endOffset": 54
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3172,
+                    "endColumn": 67,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 67,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 64,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endColumn": 101,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 101,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endColumn": 56,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 56,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endColumn": 82,
+                    "endOffset": 3542
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1391,
+                        "endColumn": 82,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3547,
+                    "endColumn": 58,
+                    "endOffset": 3601
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 58,
+                        "endOffset": 1275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3606,
+                    "endColumn": 72,
+                    "endOffset": 3674
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 72,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3679,
+                    "endColumn": 55,
+                    "endOffset": 3730
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 55,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3735,
+                    "endColumn": 67,
+                    "endOffset": 3798
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 67,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3803,
+                    "endColumn": 75,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 75,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 83,
+                    "endOffset": 3958
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 83,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3963,
+                    "endColumn": 52,
+                    "endOffset": 4011
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 52,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4016,
+                    "endColumn": 52,
+                    "endOffset": 4064
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 52,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4069,
+                    "endColumn": 58,
+                    "endOffset": 4123
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 58,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4128,
+                    "endColumn": 68,
+                    "endOffset": 4192
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1079,
+                        "endColumn": 68,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4197,
+                    "endColumn": 66,
+                    "endOffset": 4259
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 66,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4264,
+                    "endColumn": 37,
+                    "endOffset": 4297
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 37,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4302,
+                    "endColumn": 97,
+                    "endOffset": 4395
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 101,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4400,
+                    "endColumn": 56,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 56,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endColumn": 61,
+                    "endOffset": 4514
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 61,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4519,
+                    "endColumn": 71,
+                    "endOffset": 4586
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 71,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4591,
+                    "endColumn": 63,
+                    "endOffset": 4650
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 63,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4655,
+                    "endColumn": 50,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 50,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 5167
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5172,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 5293
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5298,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 5421
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5426,
+                    "endColumn": 59,
+                    "endOffset": 5481
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 47,
+                        "endColumn": 59,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5486,
+                    "endColumn": 52,
+                    "endOffset": 5534
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5539,
+                    "endColumn": 26,
+                    "endOffset": 5561
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 26,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5566,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5757
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5762,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 6035
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 740
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

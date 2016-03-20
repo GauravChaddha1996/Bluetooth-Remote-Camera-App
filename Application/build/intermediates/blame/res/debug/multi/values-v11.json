@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/home/gaurav/Desktop/android-BluetoothChat-master/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 46,
+                        "endColumn": 64,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 46,
+                        "endColumn": 64,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/home/gaurav/Downloads/android-BluetoothChat-master changed thrice/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 46,
+                        "endColumn": 64,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
